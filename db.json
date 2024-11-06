@@ -1,0 +1,9 @@
+{
+    "personagens": [
+      { "id": "1", "nome": "Verazza", "classe": "Magnata", "rolagens": [] }
+    ],
+    "rolagens": [
+      { "id": "1", "personagemId": "1", "numeroDados": 2, "numeroFaces": 6 }
+    ]
+  }
+  
